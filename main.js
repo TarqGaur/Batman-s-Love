@@ -19,7 +19,7 @@ function forw(){
 
 
 const apiUrl =
-      "http://api.weatherapi.com/v1/current.json?key=778f1c35dcf1445c8e4190639241712&q=Varanasi&aqi=no";
+      "https://api.weatherapi.com/v1/current.json?key=778f1c35dcf1445c8e4190639241712&q=Varanasi&aqi=no";
 
     async function getWeatherData() {
       try {
